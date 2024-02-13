@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms and Conditions</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  .close-btn {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .close-btn button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+
+<h1>Terms and Conditions</h1>
+
+<p>Welcome to the English Pool League Championships 2024! By participating in this event, you agree to abide by the following terms and conditions:</p>
+
+<h2>1. Event Details</h2>
+<p>The English Pool League Championships 2024 will be held in Las Vegas. All participants are required to comply with the rules and regulations of the event.</p>
+
+<h2>2. Fees and Travel</h2>
+<p>All fees associated with participation in the championships, including travel expenses to Las Vegas, will be fully paid for by the organizers.</p>
+
+<h2>3. Code of Conduct</h2>
+<p>All participants are expected to conduct themselves in a respectful and sportsmanlike manner throughout the event. Any behavior deemed inappropriate or unsportsmanlike may result in disqualification.</p>
+
+<h2>4. Liability</h2>
+<p>The organizers of the English Pool League Championships 2024 will not be held liable for any injuries, damages, or losses incurred during the event.</p>
+
+<h2>5. Changes and Cancellations</h2>
+<p>The organizers reserve the right to make changes to the event schedule or cancel the event at any time, without prior notice.</p>
+
+<div class="close-btn">
+  <button onclick="closePopup()">Close</button>
+</div>
+
+<script>
+  function closePopup() {
+    window.close();
+  }
+</script>
+
+</body>
+</html>
